@@ -1,0 +1,97 @@
+[
+  {
+    "id": "01",
+    "question": "JSON stands for _______",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Object Notation",
+      "JavaScript Object Normalization",
+      "JavaScript Object-Oriented Notation"
+    ],
+    "answer": "JavaScript Object Notation"
+  },
+  {
+    "id": "02",
+    "question": " JSON is a _____ for storing and transporting data",
+    "options": ["xml format", "text format", "JavaScript", "php format"],
+    "answer": "text format"
+  },
+  {
+    "id": "03",
+    "question": "Who is the creator of JSON?",
+    "options": [
+      "Alvin Alexander",
+      "Rasmus Lerdorf",
+      "Douglas Crockford",
+      "Jesse James Garrett"
+    ],
+    "answer": "Douglas Crockford"
+  },
+  {
+    "id": "04",
+    "question": "In the JSON syntax, data is separated by _____",
+    "options": ["Semicolons", "Colons", "nCommas", "Hypen"],
+    "answer": "Commas"
+  },
+  {
+    "id": "05",
+    "question": "Which is the correct symbol to insert a comment in JSON?",
+    "options": [
+      "//",
+      "/*…*/",
+      "<!-- … -->",
+      "JSON doesn't support the comments"
+    ],
+    "answer": "JSON doesn't support the comments"
+  },
+  {
+    "id": "06",
+    "question": "A common use of JSON is ________.",
+    "options": [
+      "to update data into the database",
+      "to retrieve data from the database",
+      "to exchange data to/from a web server",
+      "None of the above"
+    ],
+    "answer": "to exchange data to/from a web server"
+  },
+  {
+    "id": "07",
+    "question": "Which function is used to convert text into a JavaScript object?",
+    "options": [
+      "JSON.parse()",
+      "string.parse()",
+      "object.parse()",
+      "None of the above"
+    ],
+    "answer": "JSON.parse()"
+  },
+  {
+    "id": "08",
+    "question": "Which function is used to convert a JavaScript object into a string?",
+    "options": [
+      "JSON.string()",
+      "JSON.stringify()",
+      "JSON.ToString()",
+      "None of the above"
+    ],
+    "answer": "JSON.stringify()"
+  },
+  {
+    "id": "09",
+    "question": "JSON array elements can be access by ___.",
+    "options": ["Name", "Key", "Value", "Index"],
+    "answer": "Index"
+  },
+  {
+    "id": "10",
+    "question": "Which number types are available in the JavaScript but not supported in the JSON?",
+    "options": [
+      "Fractional and Rational",
+      "Infinity and Rational",
+      "Rational and Irrational",
+      "Infinity and NaN"
+    ],
+    "answer": "Infinity and NaN"
+  }
+]
